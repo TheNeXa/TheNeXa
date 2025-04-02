@@ -58,8 +58,6 @@
 - 🌱 I’m currently learning **JavaScript, Python, and SQL**.
 - 🤔 My hobbies are **gaming and productive procrastination** (learning without actually learning, haha).
 - 💼 I am a **professional overthinker**.
-- 💬 If you have any questions, **just ask me**.
-
 
 
 
