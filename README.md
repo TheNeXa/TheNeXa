@@ -50,8 +50,7 @@
 - I have a passion for **gaming and the ACG (Anime, Comics, Games) industry.**
 - I studied **English Studies**, but **life took me on a tech adventure💻,**
 - and now I’m exploring **programming** with a "Hello World!" mindset.
-- I was **nervous about it at first**,
-- but **I’m starting to love the challenge. ❤️**
+- I was **nervous about it at first**, but **I’m starting to love the challenge. ❤️**
 
 <img align="right" alt="Dimas" width="250px" src="https://raw.githubusercontent.com/TheNeXa/TheNeXa/refs/heads/main/cute-dogo.jpg" />
 
