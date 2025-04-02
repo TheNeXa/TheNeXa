@@ -38,11 +38,6 @@
 
 ---
 
-## Favorite Sites
-[![Favorite Sites](https://skillicons.dev/icons?i=github,reddit,steam,discord,instagram)](https://skillicons.dev)
-
----
-
 📊 **My Recent Programming Status:**
 <!--START_SECTION:waka-->
 ```txt
