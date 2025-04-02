@@ -37,16 +37,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,python,mysql,git,vscode,html,css)](https://skillicons.dev)
 
-### What I'm Learning
-```javascript
-const dimas = {
-  code: ["JavaScript", "Python", "SQL"],
-  tools: ["VS Code", "Git", "GitHub"],
-  challenge: "Becoming a full-stack developer by the end of the year",
-  currentFocus: "Building projects to strengthen my portfolio"
-}
-```
-
 ---
 
 ## GitHub Stats
