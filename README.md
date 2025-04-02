@@ -1,4 +1,5 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hey There 👋, I'm Dimas
+
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@dimasalif5)](https://medium.com/@dimasalif5)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/NeXa_303)](https://twitter.com/NeXa_303)
 [![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/TheNeXa)](https://github.com/TheNeXa)
@@ -15,30 +16,28 @@
 ---
 
 ## About Me
-- I am a **Programming rookie**
-- I just jumped into the world of programming recently and enjoy tinkering with **code and tech tools.**
-- I have a passion for **gaming and the ACG (Anime, Comics, Games) industry.**
-- I studied **English Studies**, but **life took me on a tech adventure💻,**
-- and now I’m exploring **programming** with a "Hello World!" mindset.
-- I was **nervous about it at first**, but **I’m starting to love the challenge. ❤️**
+
+-   🌱 I'm a **Programming Rookie** diving headfirst into the world of code! Currently obsessed with **JavaScript, Python, and SQL**.
+-   💻 My background is in **English Studies**, but I've embraced the **Tech Adventure**! From "Hello World!" to... well, still learning, but loving it!
+-   🎮 When I'm not coding, you'll find me lost in the world of **Gaming and the ACG (Anime, Comics, Games) industry**.
+-   ❤️ I'm embracing the challenge of programming and finding myself **loving the journey**.
+-   💼 I'm a **Professional Overthinker** and a **Master of Productive Procrastination** (aka: Learning while *technically* procrastinating).
 
 ### Personal Stuffs
-- 👨‍🏛 I’m an early-career professional at **Ocean Network Express**, a global maritime shipping giant.
-- 💻 My background is in **English Studies**, but I’m diving into tech.
-- 🌱 I’m currently learning **JavaScript, Python, and SQL**.
-- 🤔 My hobbies are **gaming and productive procrastination** (learning without actually learning, haha).
-- 💼 I am a **professional overthinker**.
+
+-   👨‍💼 I'm currently a Graduate Trainee at **Ocean Network Express** (where the color code is now **Magenta**! 💖), a global powerhouse in maritime shipping.
+-   📚 My academic roots are in **English Studies**, but my passion is in **Tech**.
+-   🤔 My hobbies include **gaming, learning new things (even if it looks like procrastination), and pondering the universe.**
 
 <img align="right" alt="Dimas" width="250px" src="https://raw.githubusercontent.com/TheNeXa/TheNeXa/refs/heads/main/cute-dogo.jpg" />
 
 ---
 
 ## Skills & Tools
+
 [![My Skills](https://skillicons.dev/icons?i=js,python,mysql,git,vscode)](https://skillicons.dev)
 
----
-
 📊 **My Recent Programming Status:**
-<!--START_SECTION:waka-->
+
 ```txt
 No activity tracked
