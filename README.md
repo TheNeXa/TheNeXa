@@ -36,9 +36,7 @@
 <a href="https://line.me/R/ti/p/nexa303">
   <img align="left" alt="LINE" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/line.svg"/>
 </a>
-<a href="https://myanimelist.net/profile/TheNeXa">
-  <img align="left" alt="MyAnimeList" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/myanimelist.svg"/>
-</a>
+
 
 <br />
 <br />
