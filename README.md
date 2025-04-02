@@ -1,43 +1,43 @@
 ### Hey 👋, I'm Dimas.
 
 <a href="https://medium.com/@dimasalif5">
-  <img align="left" alt="Medium" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/medium.svg" />
+  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/medium.svg" />
 </a>
 <a href="https://twitter.com/NeXa_303">
-  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" />
 </a>
 <a href="https://github.com/TheNeXa">
-  <img align="left" alt="Github" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" />
 </a>
 <a href="https://t.me/NeXa303">
-  <img align="left" alt="Telegram" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/telegram.svg" />
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" />
 </a>
 <a href="mailto:dimasalif5@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/dimas-alif/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />
 </a>
 <a href="https://steamcommunity.com/id/thenexas/">
-  <img align="left" alt="Steam" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/steam.svg" />
+  <img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/steam.svg" />
 </a>
 <a href="https://www.facebook.com/Dimas.KeNtobi">
-  <img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" />
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/facebook.svg" />
 </a>
 <a href="https://www.reddit.com/u/TheNeXa">
-  <img align="left" alt="Reddit" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/reddit.svg" />
+  <img align="left" alt="Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/reddit.svg" />
 </a>
 <a href="https://www.instagram.com/dimski__/">
-  <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" />
 </a>
 <a href="https://discord.gg/W2pGkq3MzF">
-  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" />
+  <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/discord.svg" />
 </a>
 <a href="https://line.me/R/ti/p/nexa303">
-  <img align="left" alt="LINE" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/line.svg" />
+  <img align="left" alt="LINE" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/line.svg" />
 </a>
 <a href="https://myanimelist.net/profile/TheNeXa">
-  <img align="left" alt="MyAnimeList" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/myanimelist.svg" />
+  <img align="left" alt="MyAnimeList" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/myanimelist.svg" />
 </a>
 
 <br />
@@ -67,28 +67,28 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mysql.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/git.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/visualstudiocode.svg"></code>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=TheNeXa&count_private=true&show_icons=true" alt="Dimas" />
 
 **Technology being learned**
 
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mysql.svg"></code>
 
 **Favorite sites**
 
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/reddit.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/steam.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/instagram.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/myanimelist.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/reddit.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/steam.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/discord.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/myanimelist.svg"></code>
 
 
 📊 **My recent programming status:**
