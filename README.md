@@ -1,7 +1,7 @@
 ### Hey 👋, I'm Dimas.
 
 <a href="https://medium.com/@dimasalif5">
-  <img align="left" alt="Medium" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/medium/medium-original.svg" />
+  <img align="left" alt="Medium" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/medium.svg" />
 </a>
 <a href="https://twitter.com/NeXa_303">
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />
@@ -10,7 +10,7 @@
   <img align="left" alt="Github" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
 </a>
 <a href="https://t.me/NeXa303">
-  <img align="left" alt="Telegram" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/telegram/telegram-original.svg" />
+  <img align="left" alt="Telegram" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/telegram.svg" />
 </a>
 <a href="mailto:dimasalif5@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" />
@@ -19,25 +19,25 @@
   <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
 </a>
 <a href="https://steamcommunity.com/id/thenexas/">
-  <img align="left" alt="Steam" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/steam/steam-original.svg" />
+  <img align="left" alt="Steam" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/steam.svg" />
 </a>
 <a href="https://www.facebook.com/Dimas.KeNtobi">
   <img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" />
 </a>
 <a href="https://www.reddit.com/u/TheNeXa">
-  <img align="left" alt="Reddit" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reddit/reddit-original.svg" />
+  <img align="left" alt="Reddit" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/reddit.svg" />
 </a>
 <a href="https://www.instagram.com/dimski__/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/instagram.svg" />
 </a>
 <a href="https://discord.gg/W2pGkq3MzF">
   <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" />
 </a>
 <a href="https://line.me/R/ti/p/nexa303">
-  <img align="left" alt="LINE" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/line/line-original.svg" />
+  <img align="left" alt="LINE" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/line.svg" />
 </a>
 <a href="https://myanimelist.net/profile/TheNeXa">
-  <img align="left" alt="MyAnimeList" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/myanimelist.svg" />
+  <img align="left" alt="MyAnimeList" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/myanimelist.svg" />
 </a>
 
 <br />
@@ -51,7 +51,7 @@
 - I was **nervous about it at first**,
 - but **I’m starting to love the challenge. ❤️**
 
-<img align="right" alt="Dimas" width="250px" src="https://raw.githubusercontent.com/TheNeXa/TheNeXa/main/cute-dogo.jpg" />
+<img align="right" alt="Dimas" width="250px" src="https://via.placeholder.com/250x250.png?text=Dimas+Photo+Here" />
 
 **Talking about Personal Stuffs:**
 
@@ -84,11 +84,11 @@
 **Favorite sites**
 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reddit/reddit-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/steam/steam-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/reddit.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/steam.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/instagram.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/myanimelist.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/instagram.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/myanimelist.svg"></code>
 
 
 📊 **My recent programming status:**
