@@ -23,21 +23,56 @@
 -   ❤️ I'm embracing the challenge of programming and finding myself **loving the journey**.
 -   💼 I'm a **Professional Overthinker** and a **Master of Productive Procrastination** (aka: Learning while *technically* procrastinating).
 
+<img align="right" alt="Dimas" width="250px" src="https://raw.githubusercontent.com/TheNeXa/TheNeXa/refs/heads/main/cute-dogo.jpg" />
+
 ### Personal Stuffs
 
 -   👨‍💼 I'm currently a Graduate Trainee at <span style="color: #ae2f75;">Ocean Network Express</span>, a maritime shipping giant.
 -   📚 My academic roots are in **English Studies**, but my passion is in **Tech**.
 -   🤔 My hobbies include **gaming, learning new things (even if it looks like procrastination), and pondering the universe.**
 
-<img align="right" alt="Dimas" width="250px" src="https://raw.githubusercontent.com/TheNeXa/TheNeXa/refs/heads/main/cute-dogo.jpg" />
-
 ---
 
 ## Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,mysql,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,mysql,git,vscode,html,css)](https://skillicons.dev)
 
-📊 **My Recent Programming Status:**
+### What I'm Learning
+```javascript
+const dimas = {
+  code: ["JavaScript", "Python", "SQL"],
+  tools: ["VS Code", "Git", "GitHub"],
+  challenge: "Becoming a full-stack developer by the end of the year",
+  currentFocus: "Building projects to strengthen my portfolio"
+}
+```
 
-```txt
-No activity tracked
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheNeXa&count_private=true&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNeXa&layout=compact&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheNeXa&theme=radical" alt="TheNeXa's streak stats" />
+</div>
+
+---
+
+## 🎵 What I'm Listening To
+
+<div align="center">
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=21hs4w5ry3woihyswa4oovzta">
+    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21hs4w5ry3woihyswa4oovzta" alt="Data Card for Spotify">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheNeXa&color=blueviolet" alt="Profile views">
+  <p>"Code is like humor. When you have to explain it, it's bad." – Cory House</p>
+</div>
