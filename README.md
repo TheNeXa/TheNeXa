@@ -61,6 +61,7 @@
 
 
 
+
 **Languages and Tools:** <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" style="background-color:white; border-radius:3px; padding:1px;"/></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" style="background-color:white; border-radius:3px; padding:1px;"/></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mysql.svg" style="background-color:white; border-radius:3px; padding:1px;"/></code>
