@@ -4,29 +4,29 @@
 
 ## Social Links
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top">
-      [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@dimasalif5)](https://medium.com/@dimasalif5)<br>
-      [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dimas-alif/)](https://www.linkedin.com/in/dimas-alif/)<br>
-      [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimasalif5@gmail.com)<br>
-      [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/NeXa303)](https://t.me/NeXa303)
-    </td>
-    <td align="center" valign="middle">
-      <img align="center" alt="Dimas" width="250px" src="https://raw.githubusercontent.com/TheNeXa/TheNeXa/refs/heads/main/cute-dogo.jpg" />
-    </td>
-    <td align="center" valign="top">
-      [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/NeXa_303)](https://twitter.com/NeXa_303)<br>
-      [![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/TheNeXa)](https://github.com/TheNeXa)<br>
-      [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/thenexas/)](https://steamcommunity.com/id/thenexas/)<br>
-      [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/Dimas.KeNtobi)](https://www.facebook.com/Dimas.KeNtobi)<br>
-      [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&link=https://www.reddit.com/u/TheNeXa)](https://www.reddit.com/u/TheNeXa)<br>
-      [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/dimski__/)](https://www.instagram.com/dimski__/)<br>
-      [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/W2pGkq3MzF)](https://discord.gg/W2pGkq3MzF)<br>
-      [![LINE](https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white&link=https://line.me/R/ti/p/nexa303)](https://line.me/R/ti/p/nexa303)
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <div style="display: inline-block; vertical-align: top; margin-right: 20px;">
+    [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@dimasalif5)](https://medium.com/@dimasalif5)<br>
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dimas-alif/)](https://www.linkedin.com/in/dimas-alif/)<br>
+    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimasalif5@gmail.com)<br>
+    [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/NeXa303)](https://t.me/NeXa303)
+  </div>
+
+  <div style="display: inline-block; vertical-align: middle;">
+    <img align="center" alt="Dimas" width="250px" src="https://raw.githubusercontent.com/TheNeXa/TheNeXa/refs/heads/main/cute-dogo.jpg" />
+  </div>
+
+  <div style="display: inline-block; vertical-align: top; margin-left: 20px;">
+    [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/NeXa_303)](https://twitter.com/NeXa_303)<br>
+    [![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/TheNeXa)](https://github.com/TheNeXa)<br>
+    [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/thenexas/)](https://steamcommunity.com/id/thenexas/)<br>
+    [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/Dimas.KeNtobi)](https://www.facebook.com/Dimas.KeNtobi)<br>
+    [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&link=https://www.reddit.com/u/TheNeXa)](https://www.reddit.com/u/TheNeXa)<br>
+    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/dimski__/)](https://www.instagram.com/dimski__/)<br>
+    [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/W2pGkq3MzF)](https://discord.gg/W2pGkq3MzF)<br>
+    [![LINE](https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white&link=https://line.me/R/ti/p/nexa303)](https://line.me/R/ti/p/nexa303)
+  </div>
+</div>
 
 ---
 
