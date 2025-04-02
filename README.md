@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hey There 👋, I'm Dimas
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hey There, I'm Dimas
 
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@dimasalif5)](https://medium.com/@dimasalif5)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/NeXa_303)](https://twitter.com/NeXa_303)
@@ -25,7 +25,7 @@
 
 ### Personal Stuffs
 
--   👨‍💼 I'm currently a Graduate Trainee at **Ocean Network Express** (where the color code is now **Magenta**! 💖), a global powerhouse in maritime shipping.
+-   👨‍💼 I'm currently working as Graduate Trainee at <span style="color: #ae2f75;">Ocean Network Express</span>, a global powerhouse in maritime shipping.
 -   📚 My academic roots are in **English Studies**, but my passion is in **Tech**.
 -   🤔 My hobbies include **gaming, learning new things (even if it looks like procrastination), and pondering the universe.**
 
