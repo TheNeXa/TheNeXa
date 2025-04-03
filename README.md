@@ -25,13 +25,13 @@
 -   ❤️ I'm embracing the challenge of programming and finding myself **loving the journey**.
 -   💼 I'm a **Professional Overthinker** and a **Master of Productive Procrastination** (aka: Learning while *technically* procrastinating).
 
-<img align="right" alt="Dimas" width="250px" src="https://raw.githubusercontent.com/TheNeXa/TheNeXa/refs/heads/main/cute-dogo.jpg" />
-
 ### Personal Stuffs
 
 -   👨‍💼 I'm currently a Graduate Trainee at <span style="color: #ae2f75;">Ocean Network Express</span>, a maritime shipping giant.
 -   📚 My academic roots are in **English Studies**, but my passion is in **Tech**.
 -   🤔 My hobbies include **gaming, learning new things (even if it looks like procrastination), and pondering the universe.**
+
+<img align="right" alt="Dimas" width="250px" src="https://raw.githubusercontent.com/TheNeXa/TheNeXa/refs/heads/main/cute-dogo.jpg" />
 
 ---
 
