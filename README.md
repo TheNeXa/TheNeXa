@@ -19,6 +19,8 @@
 
 ## About Me
 
+<img align="right" alt="Cute Doggo" width="250px" src="https://raw.githubusercontent.com/TheNeXa/TheNeXa/refs/heads/main/cute-dogo.jpg" />
+
 -   🌱 I'm a **Programming Rookie** diving headfirst into the world of code! Currently obsessed with **JavaScript, Python, and SQL**.
 -   💻 My background is in **English Studies**, but I've embraced the **Tech Adventure**! From "Hello World!" to... well, still learning, but loving it!
 -   🎮 When I'm not coding, you'll find me lost in the world of **Gaming and the ACG (Anime, Comics, Games) industry**.
@@ -30,8 +32,6 @@
 -   👨‍💼 I'm currently a Graduate Trainee at <span style="color: #ae2f75;">Ocean Network Express</span>, a maritime shipping giant.
 -   📚 My academic roots are in **English Studies**, but my passion is in **Tech**.
 -   🤔 My hobbies include **gaming, learning new things (even if it looks like procrastination), and pondering the universe.**
-
-<img align="right" alt="Dimas" width="250px" src="https://raw.githubusercontent.com/TheNeXa/TheNeXa/refs/heads/main/cute-dogo.jpg" />
 
 ---
 
